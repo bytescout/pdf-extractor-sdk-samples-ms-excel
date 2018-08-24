@@ -1,0 +1,4 @@
+## Index of source code examples
+
+
+\Extract Text From Coordinates
