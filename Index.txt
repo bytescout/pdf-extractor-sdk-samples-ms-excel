@@ -1,4 +1,3 @@
-## Index of source code examples
-
+## Index of source code examples:
 
 \Extract Text From Coordinates
