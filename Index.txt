@@ -1,3 +1,4 @@
 ## Index of source code examples:
 
 \Extract Text From Coordinates from PDF
+\Merge PDF Documents
